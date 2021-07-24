@@ -1,3 +1,3 @@
 # js-TicTokToeGame
-Tic Tok Toe game implementation using html. css and javascript
+Tic Tok Toe game implementation using html, css and javascript
 
